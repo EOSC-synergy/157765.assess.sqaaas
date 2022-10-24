@@ -1,5 +1,5 @@
 services:
-  qc.fair_bluesy-periwinkle-lynx:
+  qc.fair_skinny-alizarin-kangaroo:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
