@@ -1,5 +1,5 @@
 services:
-  qc.fair_silly-cyan-kudu:
+  qc.fair_messy-razzmatazz-zebra:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
