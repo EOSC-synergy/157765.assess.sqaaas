@@ -1,5 +1,5 @@
 services:
-  qc.fair_muggy-maroon-fish:
+  qc.fair_leaky-ochre-zonkey:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
