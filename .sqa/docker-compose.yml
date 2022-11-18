@@ -1,5 +1,5 @@
 services:
-  qc.fair_sleepy-ochre-fossa:
+  qc.fair_lousy-chartreuse-burmese:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
