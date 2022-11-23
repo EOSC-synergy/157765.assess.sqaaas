@@ -1,5 +1,5 @@
 services:
-  qc.fair_beady-crimson-centipede:
+  qc.fair_paltry-sangria-insect:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
