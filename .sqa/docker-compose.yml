@@ -1,5 +1,5 @@
 services:
-  qc.fair_snappy-chocolate-whippet:
+  qc.fair_skinny-cinnamon-lion:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
