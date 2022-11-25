@@ -1,5 +1,5 @@
 services:
-  qc.fair_messy-smalt-iguana:
+  qc.fair_frumpy-olivine-devil:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
