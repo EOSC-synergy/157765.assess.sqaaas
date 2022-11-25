@@ -1,5 +1,5 @@
 services:
-  qc.fair_blurry-jade-otter:
+  qc.fair_messy-smalt-iguana:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
