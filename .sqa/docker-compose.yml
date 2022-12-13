@@ -1,5 +1,5 @@
 services:
-  qc.fair_messy-cobalt-nightingale:
+  qc.fair_seedy-yellow-dugong:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
