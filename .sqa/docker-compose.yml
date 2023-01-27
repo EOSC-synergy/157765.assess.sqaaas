@@ -1,5 +1,5 @@
 services:
-  qc.fair_baggy-saffron-walrus:
+  qc.fair_geeky-tangerine-elephant:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
