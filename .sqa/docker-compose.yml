@@ -1,5 +1,5 @@
 services:
-  qc.fair_stealthy-aquamarine-numbat:
+  qc.fair_gummy-pink-kangaroo:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
