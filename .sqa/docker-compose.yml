@@ -1,5 +1,5 @@
 services:
-  qc.fair_goopy-chocolate-guppy:
+  qc.fair_boozy-linen-elephant:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
