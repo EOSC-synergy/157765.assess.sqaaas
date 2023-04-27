@@ -1,6 +1,6 @@
 services:
-  qc.fair_squeaky-cardinal-llama:
-    image: eoscsynergy/sqaaas-fair_eva:1.7.10
+  qc.fair_muzzy-emerald-chipmunk:
+    image: eoscsynergy/sqaaas-fair_eva:1.7.10-alpha
     volumes:
     - source: ./
       target: /sqaaas-build
