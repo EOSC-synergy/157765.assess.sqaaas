@@ -1,5 +1,5 @@
 services:
-  qc.fair_thirsty-sangria-ostrich:
+  qc.fair_woolly-bronze-wildebeest:
     image: eoscsynergy/sqaaas-fair_eva:1.7.10-alpha
     volumes:
     - source: ./
