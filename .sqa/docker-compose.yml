@@ -1,5 +1,5 @@
 services:
-  qc.fair_grumpy-champagne-bloodhound:
+  qc.fair_paltry-vermilion-meerkat:
     image: eoscsynergy/sqaaas-fair_eva:1.7.10-alpha
     volumes:
     - source: ./
