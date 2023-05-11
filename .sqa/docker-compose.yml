@@ -1,5 +1,5 @@
 services:
-  qc.fair_ugly-firebrick-wrasse:
+  qc.fair_zippy-heliotrope-chimpanzee:
     image: eoscsynergy/sqaaas-fair_eva:1.7.10-alpha
     volumes:
     - source: ./
