@@ -1,5 +1,5 @@
 services:
-  qc.fair_paltry-vermilion-meerkat:
+  qc.fair_ugly-firebrick-wrasse:
     image: eoscsynergy/sqaaas-fair_eva:1.7.10-alpha
     volumes:
     - source: ./
