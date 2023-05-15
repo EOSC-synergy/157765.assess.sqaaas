@@ -1,5 +1,5 @@
 services:
-  qc.fair_dorky-chocolate-olm:
+  qc.fair_wimpy-corn-akbash:
     image: eoscsynergy/sqaaas-fair_eva:1.7.10-alpha2
     volumes:
     - source: ./
