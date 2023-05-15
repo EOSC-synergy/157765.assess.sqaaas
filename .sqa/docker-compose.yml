@@ -1,6 +1,6 @@
 services:
-  qc.fair_zippy-heliotrope-chimpanzee:
-    image: eoscsynergy/sqaaas-fair_eva:1.7.10-alpha
+  qc.fair_snoopy-fuchsia-paradise:
+    image: eoscsynergy/sqaaas-fair_eva:1.7.10-alpha2
     volumes:
     - source: ./
       target: /sqaaas-build
