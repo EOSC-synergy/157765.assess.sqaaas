@@ -1,5 +1,5 @@
 services:
-  qc.fair_snazzy-amber-shrew:
+  qc.fair_cranky-vermilion-markhor:
     image: eoscsynergy/sqaaas-fair_eva:1.7.10-alpha2
     volumes:
     - source: ./
