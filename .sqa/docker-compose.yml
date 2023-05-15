@@ -1,5 +1,5 @@
 services:
-  qc.fair_cranky-vermilion-markhor:
+  qc.fair_skinny-sangria-rhinoceros:
     image: eoscsynergy/sqaaas-fair_eva:1.7.10-alpha2
     volumes:
     - source: ./
