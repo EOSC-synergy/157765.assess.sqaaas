@@ -1,6 +1,8 @@
 services:
-  qc.fair_trippy-olivine-dolphin:
-    image: eoscsynergy/sqaaas-fair_eva:1.7.10-alpha2
+  qc.fair_shabby-burgundy-caterpillar:
+    build:
+      context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
+      dockerfile: Dockerfile
     volumes:
     - source: ./
       target: /sqaaas-build
