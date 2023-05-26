@@ -1,5 +1,5 @@
 services:
-  qc.fair_fuzzy-pear-bandicoot:
+  qc.fair_wimpy-amber-eel:
     image: eoscsynergy/sqaaas-fair_eva:1.7.10-alpha2
     volumes:
     - source: ./
