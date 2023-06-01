@@ -1,6 +1,6 @@
 services:
-  qc.fair_hilly-beige-bobcat:
-    image: eoscsynergy/sqaaas-fair_eva:1.7.10-alpha2
+  qc.fair_stealthy-cerise-burmese:
+    image: eoscsynergy/sqaaas-fair_eva:1.7.10-alpha
     volumes:
     - source: ./
       target: /sqaaas-build
