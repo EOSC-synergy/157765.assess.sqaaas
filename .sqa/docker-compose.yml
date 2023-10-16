@@ -1,5 +1,5 @@
 services:
-  qc.fair_lumpy-tan-mammoth:
+  qc.fair_wimpy-myrtle-mule:
     command: sleep 6000000
     image: eoscsynergy/sqaaas-fair_eva:1.7.11-alpha
     volumes:
