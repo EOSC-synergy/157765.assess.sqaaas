@@ -1,5 +1,5 @@
 services:
-  qc.fair_dorky-magenta-chipmunk:
+  qc.fair_flimsy-lavender-stingray:
     command: sleep 6000000
     image: eoscsynergy/sqaaas-fair_eva:1.7.12-alpha
     volumes:
