@@ -1,7 +1,7 @@
 services:
   qc.fair_wimpy-white-macaque:
     command: sleep 6000000
-    image: eoscsynergy/sqaaas-fair_eva:1.7.12-alpha9
+    image: eoscsynergy/sqaaas-fair_eva:1.7.12-alpha12
     volumes:
     - source: ./
       target: /sqaaas-build
