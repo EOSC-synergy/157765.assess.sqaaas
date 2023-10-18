@@ -1,5 +1,5 @@
 services:
-  qc.fair_cloudy-green-chicken:
+  qc.fair_wimpy-white-macaque:
     command: sleep 6000000
     image: eoscsynergy/sqaaas-fair_eva:1.7.12-alpha
     volumes:
