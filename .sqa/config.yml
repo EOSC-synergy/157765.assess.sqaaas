@@ -12,7 +12,6 @@ sqa_criteria:
     repos:
       this_repo:
         commands:
-        - netstat -tuln
         - /usr/local/bin/python3 /usr/bin/fair-eva.py -ID http://hdl.handle.net/10261/157765 -R oai-pmh -B http://digital.csic.es/dspace-oai/request
           --tool_endpoint http://localhost:9090/v1.0/rda/rda_all
         container: qc.fair_wimpy-white-macaque
