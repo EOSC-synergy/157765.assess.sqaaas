@@ -1,5 +1,5 @@
 services:
-  qc.fair_homey-cinnamon-abyssinian:
+  qc.fair_wimpy-magenta-mist:
     command: sleep 6000000
     image: eoscsynergy/sqaaas-fair_eva:1.7.12-rc2
     volumes:
