@@ -1,5 +1,5 @@
 services:
-  qc.fair_flimsy-chartreuse-bordeaux:
+  qc.fair_lousy-seashell-mongrel:
     command: sleep 6000000
     image: eoscsynergy/sqaaas-fair_eva:epos-prototype-alpha4
     volumes:
