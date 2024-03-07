@@ -1,7 +1,7 @@
 services:
-  qc.fair_wiggy-magenta-donkey:
+  qc.fair_flimsy-chartreuse-bordeaux:
     command: sleep 6000000
-    image: eoscsynergy/sqaaas-fair_eva:epos-prototype-alpha1
+    image: eoscsynergy/sqaaas-fair_eva:epos-prototype-alpha4
     volumes:
     - source: ./
       target: /sqaaas-build
