@@ -1,5 +1,5 @@
 services:
-  qc.fair_sunny-violet-starfish:
+  qc.fair_grumpy-vermilion-buzzard:
     command: sleep 6000000
     image: eoscsynergy/sqaaas-fair_eva:epos-prototype-alpha6
     volumes:
