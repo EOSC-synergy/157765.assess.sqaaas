@@ -14,5 +14,5 @@ sqa_criteria:
         commands:
         - fair-eva.py --id 10261/157765 --plugin oai-pmh --repository http://digital.csic.es/dspace-oai/request
           --api-endpoint http://localhost:9090/v1.0/rda/rda_all --json
-        container: qc.fair_randy-ivory-wolverine
+        container: qc.fair_woolly-alizarin-cuscus
 timeout: 5400
