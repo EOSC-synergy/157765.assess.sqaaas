@@ -557,6 +557,7 @@
                             }
                         }
                     ],
+                    "points": 100,
                     "valid": true
                 },
                 "RDA_F1_01M": {
@@ -1102,6 +1103,7 @@
                             }
                         }
                     ],
+                    "points": 100,
                     "valid": true
                 },
                 "RDA_F1_02D": {
@@ -1647,6 +1649,7 @@
                             }
                         }
                     ],
+                    "points": 0,
                     "valid": false,
                     "required_for_next_level_badge": false
                 },
@@ -2193,6 +2196,7 @@
                             }
                         }
                     ],
+                    "points": 0,
                     "valid": false,
                     "required_for_next_level_badge": false
                 },
@@ -2739,6 +2743,7 @@
                             }
                         }
                     ],
+                    "points": 87.5,
                     "valid": true
                 },
                 "RDA_F3_01M": {
@@ -3284,6 +3289,7 @@
                             }
                         }
                     ],
+                    "points": 100,
                     "valid": true
                 },
                 "RDA_F4_01M": {
@@ -3829,6 +3835,7 @@
                             }
                         }
                     ],
+                    "points": 100,
                     "valid": true
                 },
                 "RDA_A1_01M": {
@@ -4374,6 +4381,7 @@
                             }
                         }
                     ],
+                    "points": 100,
                     "valid": true
                 },
                 "RDA_A1_02D": {
@@ -4919,6 +4927,7 @@
                             }
                         }
                     ],
+                    "points": 100,
                     "valid": true
                 },
                 "RDA_A1_02M": {
@@ -5464,6 +5473,7 @@
                             }
                         }
                     ],
+                    "points": 97.5,
                     "valid": true
                 },
                 "RDA_A1_03D": {
@@ -6009,6 +6019,7 @@
                             }
                         }
                     ],
+                    "points": 100,
                     "valid": true
                 },
                 "RDA_A1_03M": {
@@ -6554,6 +6565,7 @@
                             }
                         }
                     ],
+                    "points": 97.5,
                     "valid": true
                 },
                 "RDA_A1_04D": {
@@ -7099,6 +7111,7 @@
                             }
                         }
                     ],
+                    "points": 100,
                     "valid": true
                 },
                 "RDA_A1_04M": {
@@ -7644,6 +7657,7 @@
                             }
                         }
                     ],
+                    "points": 100,
                     "valid": true
                 },
                 "RDA_A1_05D": {
@@ -8189,6 +8203,7 @@
                             }
                         }
                     ],
+                    "points": 0,
                     "valid": false,
                     "required_for_next_level_badge": false
                 },
@@ -8735,6 +8750,7 @@
                             }
                         }
                     ],
+                    "points": 100,
                     "valid": true
                 },
                 "RDA_A1_1_01M": {
@@ -9280,6 +9296,7 @@
                             }
                         }
                     ],
+                    "points": 100,
                     "valid": true
                 },
                 "RDA_A1_2_01D": {
@@ -9825,6 +9842,7 @@
                             }
                         }
                     ],
+                    "points": 0,
                     "valid": false,
                     "required_for_next_level_badge": false
                 },
@@ -10371,6 +10389,7 @@
                             }
                         }
                     ],
+                    "points": 50,
                     "valid": false,
                     "required_for_next_level_badge": false
                 },
@@ -10917,6 +10936,7 @@
                             }
                         }
                     ],
+                    "points": 100,
                     "valid": true
                 },
                 "RDA_I1_01M": {
@@ -11462,6 +11482,7 @@
                             }
                         }
                     ],
+                    "points": 0,
                     "valid": false,
                     "required_for_next_level_badge": false
                 },
@@ -12008,6 +12029,7 @@
                             }
                         }
                     ],
+                    "points": 100,
                     "valid": true
                 },
                 "RDA_I1_02M": {
@@ -12553,6 +12575,7 @@
                             }
                         }
                     ],
+                    "points": 100,
                     "valid": true
                 },
                 "RDA_I2_01D": {
@@ -13098,6 +13121,7 @@
                             }
                         }
                     ],
+                    "points": 0,
                     "valid": false,
                     "required_for_next_level_badge": false
                 },
@@ -13644,6 +13668,7 @@
                             }
                         }
                     ],
+                    "points": 0,
                     "valid": false,
                     "required_for_next_level_badge": false
                 },
@@ -14190,6 +14215,7 @@
                             }
                         }
                     ],
+                    "points": 0,
                     "valid": false,
                     "required_for_next_level_badge": false
                 },
@@ -14736,6 +14762,7 @@
                             }
                         }
                     ],
+                    "points": 0,
                     "valid": false,
                     "required_for_next_level_badge": false
                 },
@@ -15282,6 +15309,7 @@
                             }
                         }
                     ],
+                    "points": 0,
                     "valid": false,
                     "required_for_next_level_badge": false
                 },
@@ -15828,6 +15856,7 @@
                             }
                         }
                     ],
+                    "points": 0,
                     "valid": false,
                     "required_for_next_level_badge": false
                 },
@@ -16374,6 +16403,7 @@
                             }
                         }
                     ],
+                    "points": 0,
                     "valid": false,
                     "required_for_next_level_badge": false
                 },
@@ -16920,6 +16950,7 @@
                             }
                         }
                     ],
+                    "points": 0,
                     "valid": false,
                     "required_for_next_level_badge": false
                 },
@@ -17466,6 +17497,7 @@
                             }
                         }
                     ],
+                    "points": 87.5,
                     "valid": true
                 },
                 "RDA_R1_1_01M": {
@@ -18011,6 +18043,7 @@
                             }
                         }
                     ],
+                    "points": 0,
                     "valid": false,
                     "required_for_next_level_badge": false
                 },
@@ -18557,6 +18590,7 @@
                             }
                         }
                     ],
+                    "points": 0,
                     "valid": false,
                     "required_for_next_level_badge": false
                 },
@@ -19103,6 +19137,7 @@
                             }
                         }
                     ],
+                    "points": 0,
                     "valid": false,
                     "required_for_next_level_badge": false
                 },
@@ -19649,6 +19684,7 @@
                             }
                         }
                     ],
+                    "points": 0,
                     "valid": false,
                     "required_for_next_level_badge": false
                 },
@@ -20195,6 +20231,7 @@
                             }
                         }
                     ],
+                    "points": 0,
                     "valid": false,
                     "required_for_next_level_badge": false
                 },
@@ -20741,6 +20778,7 @@
                             }
                         }
                     ],
+                    "points": 100,
                     "valid": true
                 },
                 "RDA_R1_3_01M": {
@@ -21286,6 +21324,7 @@
                             }
                         }
                     ],
+                    "points": 0.0,
                     "valid": false,
                     "required_for_next_level_badge": false
                 },
@@ -21832,6 +21871,7 @@
                             }
                         }
                     ],
+                    "points": 100,
                     "valid": true
                 },
                 "RDA_R1_3_02M": {
@@ -22377,6 +22417,7 @@
                             }
                         }
                     ],
+                    "points": 100,
                     "valid": true
                 }
             },
@@ -22392,212 +22433,212 @@
             "criteria": {
                 "bronze": {
                     "to_fulfill": [
-                        "rda_a1_1_01m",
-                        "rda_a1_04m",
+                        "rda_a1_03d",
+                        "rda_f1_01m",
+                        "rda_r1_3_02m",
+                        "rda_r1_3_01d",
+                        "rda_f3_01m",
+                        "rda_a2_01m",
                         "da_r1_1_01m",
+                        "rda_f4_01m",
+                        "rda_a1_03m",
+                        "rda_r1_3_01m",
+                        "rda_f1_02d",
                         "rda_r1_01m",
                         "rda_a1_04d",
-                        "rda_r1_3_01m",
-                        "rda_a1_03d",
-                        "rda_f4_01m",
-                        "rda_r1_3_02m",
                         "rda_a1_02d",
-                        "rda_f1_01m",
-                        "rda_r1_3_01d",
+                        "rda_a1_1_01m",
+                        "rda_f1_02m",
                         "rda_a1_02m",
                         "rda_f1_01d",
-                        "rda_f1_02d",
-                        "rda_f3_01m",
-                        "rda_a1_03m",
-                        "rda_f1_02m",
-                        "rda_a2_01m",
+                        "rda_a1_04m",
                         "rda_f2_01m"
                     ],
                     "missing": [
-                        "rda_r1_3_01d",
-                        "rda_a1_1_01m",
-                        "rda_a1_02m",
-                        "rda_a1_04m",
-                        "rda_f1_01d",
-                        "da_r1_1_01m",
-                        "rda_r1_01m",
-                        "rda_f1_02d",
-                        "rda_f3_01m",
-                        "rda_a1_04d",
-                        "rda_a1_03m",
-                        "rda_f1_02m",
-                        "rda_r1_3_01m",
                         "rda_a1_03d",
-                        "rda_f4_01m",
+                        "rda_r1_3_01m",
+                        "rda_f1_02d",
+                        "rda_r1_01m",
+                        "rda_f1_01m",
+                        "rda_a1_04d",
                         "rda_r1_3_02m",
-                        "rda_a2_01m",
-                        "rda_f2_01m",
                         "rda_a1_02d",
-                        "rda_f1_01m"
+                        "rda_a1_1_01m",
+                        "rda_r1_3_01d",
+                        "rda_f1_02m",
+                        "rda_f3_01m",
+                        "rda_a2_01m",
+                        "da_r1_1_01m",
+                        "rda_f4_01m",
+                        "rda_a1_02m",
+                        "rda_f1_01d",
+                        "rda_a1_04m",
+                        "rda_a1_03m",
+                        "rda_f2_01m"
                     ],
                     "fulfilled": []
                 },
                 "silver": {
                     "to_fulfill": [
-                        "rda_a1_1_01m",
-                        "rda_i3_03m",
-                        "rda_r1_3_02d",
-                        "rda_i2_01m",
-                        "rda_a1_04m",
-                        "rda_a1_01m",
-                        "da_r1_1_01m",
-                        "rda_r1_01m",
-                        "rda_a1_04d",
-                        "rda_r1_3_01m",
                         "rda_a1_1_01d",
                         "rda_a1_03d",
-                        "rda_f4_01m",
-                        "rda_r1_3_02m",
-                        "rda_a1_02d",
-                        "rda_f1_01m",
-                        "rda_r1_3_01d",
-                        "rda_a1_02m",
-                        "rda_i1_02m",
-                        "rda_i1_01m",
-                        "rda_f1_01d",
-                        "rda_a1_05d",
-                        "rda_f1_02d",
                         "rda_i3_01m",
-                        "rda_f3_01m",
                         "rda_i1_01d",
-                        "rda_i1_02d",
-                        "rda_a1_03m",
-                        "rda_f1_02m",
+                        "rda_f1_01m",
+                        "rda_r1_3_02m",
+                        "rda_r1_3_01d",
+                        "rda_f3_01m",
+                        "rda_i2_01m",
                         "rda_a2_01m",
+                        "da_r1_1_01m",
+                        "rda_f4_01m",
+                        "rda_i3_03m",
+                        "rda_a1_03m",
+                        "rda_i1_02m",
+                        "rda_a1_05d",
+                        "rda_a1_01m",
                         "rda_r1_1_03m",
+                        "rda_r1_3_01m",
+                        "rda_f1_02d",
+                        "rda_r1_01m",
+                        "rda_a1_04d",
+                        "rda_a1_02d",
+                        "rda_a1_1_01m",
+                        "rda_i1_02d",
+                        "rda_r1_3_02d",
                         "rda_r1_1_02m",
+                        "rda_f1_02m",
                         "rda_r1_2_01m",
+                        "rda_a1_02m",
+                        "rda_f1_01d",
+                        "rda_a1_04m",
+                        "rda_i1_01m",
                         "rda_f2_01m"
                     ],
                     "missing": [
-                        "rda_a1_1_01m",
-                        "rda_i3_03m",
-                        "rda_r1_3_02d",
-                        "rda_i2_01m",
-                        "rda_a1_04m",
-                        "rda_a1_01m",
-                        "da_r1_1_01m",
-                        "rda_r1_01m",
-                        "rda_a1_04d",
-                        "rda_r1_3_01m",
                         "rda_a1_1_01d",
                         "rda_a1_03d",
-                        "rda_f4_01m",
-                        "rda_r1_3_02m",
-                        "rda_a1_02d",
-                        "rda_f1_01m",
-                        "rda_r1_3_01d",
-                        "rda_a1_02m",
-                        "rda_i1_02m",
-                        "rda_i1_01m",
-                        "rda_f1_01d",
-                        "rda_a1_05d",
-                        "rda_f1_02d",
                         "rda_i3_01m",
+                        "rda_i1_01d",
+                        "rda_f1_01m",
+                        "rda_r1_3_02m",
+                        "rda_r1_3_01d",
                         "rda_f3_01m",
-                        "rda_i1_02d",
-                        "rda_a1_03m",
-                        "rda_f1_02m",
+                        "rda_i2_01m",
                         "rda_a2_01m",
+                        "da_r1_1_01m",
+                        "rda_f4_01m",
+                        "rda_i3_03m",
+                        "rda_a1_03m",
+                        "rda_i1_02m",
+                        "rda_a1_05d",
+                        "rda_a1_01m",
                         "rda_r1_1_03m",
+                        "rda_r1_3_01m",
+                        "rda_f1_02d",
+                        "rda_r1_01m",
+                        "rda_a1_04d",
+                        "rda_a1_02d",
+                        "rda_a1_1_01m",
+                        "rda_i1_02d",
+                        "rda_r1_3_02d",
                         "rda_r1_1_02m",
-                        "rda_f2_01m",
+                        "rda_f1_02m",
                         "rda_r1_2_01m",
-                        "rda_i1_01d"
+                        "rda_a1_02m",
+                        "rda_f1_01d",
+                        "rda_a1_04m",
+                        "rda_i1_01m",
+                        "rda_f2_01m"
                     ],
                     "fulfilled": []
                 },
                 "gold": {
                     "to_fulfill": [
-                        "rda_a1_2_01d",
-                        "rda_a1_1_01m",
-                        "rda_i3_03m",
-                        "rda_r1_3_02d",
-                        "rda_i2_01m",
-                        "rda_a1_04m",
-                        "rda_i3_01d",
-                        "rda_a1_01m",
-                        "da_r1_1_01m",
-                        "rda_r1_01m",
-                        "rda_a1_04d",
-                        "rda_r1_3_01m",
                         "rda_a1_1_01d",
+                        "rda_i3_02m",
                         "rda_a1_03d",
-                        "rda_f4_01m",
-                        "rda_r1_3_02m",
-                        "rda_a1_02d",
+                        "rda_i3_01m",
+                        "rda_i3_01d",
+                        "rda_i1_01d",
                         "rda_f1_01m",
-                        "rda_r1_2_02m",
+                        "rda_r1_3_02m",
                         "rda_r1_3_01d",
-                        "rda_a1_02m",
+                        "rda_f3_01m",
+                        "rda_i2_01m",
+                        "rda_a2_01m",
+                        "da_r1_1_01m",
+                        "rda_f4_01m",
+                        "rda_i3_03m",
+                        "rda_i3_02d",
+                        "rda_a1_03m",
+                        "rda_a1_2_01d",
                         "rda_i1_02m",
+                        "rda_a1_05d",
+                        "rda_a1_01m",
+                        "rda_r1_1_03m",
+                        "rda_r1_3_01m",
+                        "rda_f1_02d",
+                        "rda_r1_01m",
+                        "rda_i3_04m",
+                        "rda_a1_04d",
+                        "rda_a1_02d",
+                        "rda_a1_1_01m",
+                        "rda_i1_02d",
+                        "rda_r1_2_02m",
+                        "rda_r1_3_02d",
+                        "rda_r1_1_02m",
+                        "rda_f1_02m",
+                        "rda_r1_2_01m",
+                        "rda_a1_02m",
+                        "rda_f1_01d",
+                        "rda_a1_04m",
                         "rda_i1_01m",
                         "rda_i2_01d",
-                        "rda_f1_01d",
-                        "rda_i3_02d",
-                        "rda_a1_05d",
-                        "rda_i3_02m",
-                        "rda_f1_02d",
-                        "rda_i3_01m",
-                        "rda_f3_01m",
-                        "rda_i1_01d",
-                        "rda_i1_02d",
-                        "rda_a1_03m",
-                        "rda_f1_02m",
-                        "rda_a2_01m",
-                        "rda_r1_1_03m",
-                        "rda_i3_04m",
-                        "rda_r1_1_02m",
-                        "rda_r1_2_01m",
                         "rda_f2_01m"
                     ],
                     "missing": [
-                        "rda_a1_2_01d",
-                        "rda_a1_1_01m",
-                        "rda_i3_03m",
-                        "rda_r1_3_02d",
-                        "rda_i2_01m",
-                        "rda_a1_04m",
-                        "rda_i3_01d",
-                        "rda_a1_01m",
-                        "da_r1_1_01m",
-                        "rda_r1_01m",
-                        "rda_a1_04d",
-                        "rda_r1_3_01m",
                         "rda_a1_1_01d",
+                        "rda_i3_02m",
                         "rda_a1_03d",
-                        "rda_f4_01m",
-                        "rda_r1_3_02m",
-                        "rda_a1_02d",
+                        "rda_i3_01m",
+                        "rda_i3_01d",
+                        "rda_i1_01d",
                         "rda_f1_01m",
-                        "rda_r1_2_02m",
+                        "rda_r1_3_02m",
                         "rda_r1_3_01d",
-                        "rda_a1_02m",
+                        "rda_f3_01m",
+                        "rda_i2_01m",
+                        "rda_a2_01m",
+                        "da_r1_1_01m",
+                        "rda_f4_01m",
+                        "rda_i3_03m",
+                        "rda_i3_02d",
+                        "rda_a1_03m",
+                        "rda_a1_2_01d",
                         "rda_i1_02m",
+                        "rda_a1_05d",
+                        "rda_a1_01m",
+                        "rda_r1_1_03m",
+                        "rda_r1_3_01m",
+                        "rda_f1_02d",
+                        "rda_r1_01m",
+                        "rda_i3_04m",
+                        "rda_a1_04d",
+                        "rda_a1_02d",
+                        "rda_a1_1_01m",
+                        "rda_i1_02d",
+                        "rda_r1_2_02m",
+                        "rda_r1_3_02d",
+                        "rda_r1_1_02m",
+                        "rda_f1_02m",
+                        "rda_r1_2_01m",
+                        "rda_a1_02m",
+                        "rda_f1_01d",
+                        "rda_a1_04m",
                         "rda_i1_01m",
                         "rda_i2_01d",
-                        "rda_f1_01d",
-                        "rda_i3_02d",
-                        "rda_a1_05d",
-                        "rda_i3_02m",
-                        "rda_f1_02d",
-                        "rda_i3_01m",
-                        "rda_f3_01m",
-                        "rda_i1_02d",
-                        "rda_a1_03m",
-                        "rda_f1_02m",
-                        "rda_a2_01m",
-                        "rda_r1_1_03m",
-                        "rda_i3_04m",
-                        "rda_r1_1_02m",
-                        "rda_f2_01m",
-                        "rda_r1_2_01m",
-                        "rda_i1_01d"
+                        "rda_f2_01m"
                     ],
                     "fulfilled": []
                 }
