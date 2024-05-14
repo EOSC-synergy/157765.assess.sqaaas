@@ -1,5 +1,5 @@
 services:
-  qc.fair_cranky-seashell-rattlesnake:
+  qc.fair_foggy-yellow-nightingale:
     command: sleep 6000000
     image: eoscsynergy/sqaaas-fair_eva:2.0.0
     volumes:
