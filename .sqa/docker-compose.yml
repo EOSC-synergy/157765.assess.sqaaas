@@ -1,5 +1,5 @@
 services:
-  qc.fair_pretty-firebrick-bandicoot:
+  qc.fair_wiggy-lime-quetzal:
     command: sleep 6000000
     image: eoscsynergy/sqaaas-fair_eva:2.0.0
     volumes:
