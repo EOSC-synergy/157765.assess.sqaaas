@@ -13,7 +13,7 @@ sqa_criteria:
       this_repo:
         commands:
         - fair-eva.py --id http://hdl.handle.net/10261/157765 --plugin oai-pmh --repository
-          http://digital.csic.es/dspace-oai/request --api-endpoint http://localhost:9090/v1.0/rda/rda_all
-          --json
-        container: qc.fair_slaphappy-cerise-zorse
+          ttps://datacatalogue.cessda.eu/api/DataSets/v2/search?metadataLanguage=en
+          --api-endpoint http://localhost:9090/v1.0/rda/rda_all --json
+        container: qc.fair_wiggy-crimson-gharial
 timeout: 5400
