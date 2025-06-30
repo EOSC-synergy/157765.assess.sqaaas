@@ -13,7 +13,7 @@ sqa_criteria:
       this_repo:
         commands:
         - fair-eva.py --id http://hdl.handle.net/10261/157765 --plugin oai-pmh --repository
-          https://datacatalogue.cessda.eu/oai-pmh/v0/oai?verb=ListRecords&metadataPrefix=oai_ddi25
-          --api-endpoint http://localhost:9090/v1.0/rda/rda_all --json
-        container: qc.fair_pretty-thistle-flounder
+          http://digital.csic.es/dspace-oai/request --api-endpoint http://localhost:9090/v1.0/rda/rda_all
+          --json
+        container: qc.fair_ugly-ruby-llama
 timeout: 5400
